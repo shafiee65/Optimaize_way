@@ -1,0 +1,17 @@
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\bin\Debug\fanavar.exe.config
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\obj\Debug\fanavar.Form1.resources
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\obj\Debug\fanavar.Properties.Resources.resources
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\obj\Debug\fanavar.csproj.GenerateResource.Cache
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\bin\Debug\fanavar.exe
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\bin\Debug\fanavar.pdb
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\obj\Debug\fanavar.exe
+c:\users\mohamad\documents\visual studio 2015\Projects\fanavar\fanavar\obj\Debug\fanavar.pdb
+D:\fanavar\fanavar\bin\Debug\fanavar.exe.config
+D:\fanavar\fanavar\obj\Debug\fanavar.exe
+D:\fanavar\fanavar\obj\Debug\fanavar.pdb
+D:\fanavar\fanavar\bin\Debug\fanavar.exe
+D:\fanavar\fanavar\bin\Debug\fanavar.pdb
+D:\fanavar\fanavar\obj\Debug\fanavar.csprojResolveAssemblyReference.cache
+D:\fanavar\fanavar\obj\Debug\fanavar.Form1.resources
+D:\fanavar\fanavar\obj\Debug\fanavar.Properties.Resources.resources
+D:\fanavar\fanavar\obj\Debug\fanavar.csproj.GenerateResource.Cache
